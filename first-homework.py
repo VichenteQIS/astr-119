@@ -1,4 +1,4 @@
-#1/usr/bin/env python3
+#!/usr/bin/env python3
 
 #This is the first-homework
 #and it will print my full name 
